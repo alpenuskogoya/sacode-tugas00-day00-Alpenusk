@@ -1,0 +1,91 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+  margin: auto auto;
+}
+.container {
+  display: flexbox;
+  background-color: #ccc;
+  width: 49%;
+
+  padding: 10px;
+  margin: auto;
+}
+h1 {
+  text-align: center;
+  margin: 0;
+  border-bottom: 3px solid black;
+  font-weight: bold;
+}
+header p {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  margin-top: 10px;
+}
+#img,
+img {
+  display: flex;
+  justify-content: center;
+  border-radius: 50%;
+  margin: auto;
+  width: 100px;
+  margin-bottom: 10px;
+}
+nav {
+  display: flex;
+  justify-content: center;
+}
+nav ul,
+li {
+  display: inline-block;
+  margin-right: 10px;
+  margin-top: 20px;
+}
+nav a {
+  text-decoration: none;
+  background-color: aqua;
+  padding: 5px;
+  color: black;
+  opacity: 0.5;
+  cursor: pointer;
+}
+nav a:hover {
+  background-color: aqua;
+  color: black;
+  opacity: 0.9;
+}
+section h2 {
+  text-align: center;
+  color: rgb(4, 4, 142);
+}
+section p {
+  text-align: justify;
+}
+
+footer {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.images {
+  display: flex;
+}
+
+.images img {
+  display: inline-block;
+  width: 120px;
+  border-radius: 5px;
+}
+section iframe {
+  display: block;
+  margin: auto auto;
+}
+section p img {
+  width: 100px;
+  border-radius: 5px;
+  margin: 0;
+  float: left;
+  margin-right: 5px;
+}
