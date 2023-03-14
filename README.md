@@ -1,4 +1,4 @@
 # Belajar publikasi web statis gunakan github pages
-lihat hasil disini https://anjastabuni.github.io/sacode-tugas00-day00-Rebly/
+lihat hasil disini: https://alpenuskogoya.github.io/sacode-tugas00-day00-Alpenusk/
 
-.[LIHAT DEMO].(https://anjastabuni.github.io/sacode-tugas00-day00-Rebly/)
+.[LIHAT DEMO].https://alpenuskogoya.github.io/sacode-tugas00-day00-Alpenusk/
